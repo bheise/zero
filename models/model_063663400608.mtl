@@ -4,5 +4,5 @@ Kd 1.000 1.000 1.000
 Ks 0.000 0.000 0.000
 d 1.0
 illum 2
-map_Ka https://raw.githubusercontent.com/bheise/zero/master/models/texture_063663400608.jpg
-map_Kd https://raw.githubusercontent.com/bheise/zero/master/models/texture_063663400608.jpg
+map_Ka texture_063663400608.jpg
+map_Kd texture_063663400608.jpg
